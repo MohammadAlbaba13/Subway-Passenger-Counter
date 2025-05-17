@@ -19,3 +19,5 @@ A simple web app that lets users count how many passengers enter a subway/train 
 ## 📁 Files
 - `index.html` — layout
 - `script.js` — app logic
+## 🌐 Live Demo
+[Link to live site](https://mohammadalbaba13.github.io/Subway-Passenger-Counter/)
